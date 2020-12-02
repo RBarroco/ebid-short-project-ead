@@ -1,3 +1,6 @@
+If the project is not visible on github, you can use this link:</br>
+https://nbviewer.jupyter.org/github/RBarroco/ebid-short-project-ead/blob/master/ebid-consumer-analysis.ipynb
+
 # ebid-short-project-ead
 This is a quick project in order to fetch data from SODA API<br/>
 
